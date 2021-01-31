@@ -28,6 +28,8 @@ your_name: xarius
 email: xariusdrake@hotmail.com
 
 navigation:
+  - text: Real
+    url: /real
   - text: Links
     url: /links
   - text: Books
