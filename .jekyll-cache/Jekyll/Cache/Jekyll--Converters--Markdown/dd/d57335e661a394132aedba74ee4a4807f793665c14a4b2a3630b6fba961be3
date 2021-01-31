@@ -1,0 +1,27 @@
+I"®<h1 id="docs">Docs</h1>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>This theme can be configured by modifying the <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
+
+<h3 id="theme-settings">Theme settings</h3>
+
+<p>This theme supports three different mode provided by <code class="language-plaintext highlighter-rouge">hack.css</code>:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">standard</code></li>
+  <li><code class="language-plaintext highlighter-rouge">markdown</code></li>
+  <li><code class="language-plaintext highlighter-rouge">dark</code></li>
+</ul>
+
+<p>Set <code class="language-plaintext highlighter-rouge">theme_mode</code> to the desired value.</p>
+
+<h3 id="available-customizations">Available customizations</h3>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">your_name</code> and <code class="language-plaintext highlighter-rouge">email</code> strings to display them in different places on site</li>
+  <li><code class="language-plaintext highlighter-rouge">navigation</code> is an array of <code class="language-plaintext highlighter-rouge">text</code> and <code class="language-plaintext highlighter-rouge">url</code> pairs to render the menu</li>
+  <li><code class="language-plaintext highlighter-rouge">projects</code> is a setting that contains data for the <code class="language-plaintext highlighter-rouge">examples</code> page, every item must contain <code class="language-plaintext highlighter-rouge">name</code> and <code class="language-plaintext highlighter-rouge">link</code>, <code class="language-plaintext highlighter-rouge">image</code> and <code class="language-plaintext highlighter-rouge">description</code> are optional</li>
+  <li><code class="language-plaintext highlighter-rouge">social</code> contains an array of three required params: <code class="language-plaintext highlighter-rouge">service</code> is used to include a service icon by the <code class="language-plaintext highlighter-rouge">{% include icon-{{ service }}.html %}</code> command, <code class="language-plaintext highlighter-rouge">username</code> and <code class="language-plaintext highlighter-rouge">link</code> are quite obvious</li>
+</ul>
+:ET
