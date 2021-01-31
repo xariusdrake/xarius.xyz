@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jekyll-theme-hackcss</title>
-    <description>A minimalistic theme for Jekyll, based on hack.css
-</description>
+    <title>xarius's blog</title>
+    <description></description>
     <link>https://wemake-services.github.io</link>
     <atom:link href="https://wemake-services.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jan 2021 21:27:46 +0700</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2021 21:27:46 +0700</lastBuildDate>
+    <pubDate>Sun, 31 Jan 2021 21:44:56 +0700</pubDate>
+    <lastBuildDate>Sun, 31 Jan 2021 21:44:56 +0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
