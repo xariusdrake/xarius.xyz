@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xarius's blog</title>
+    <title>xarius's page</title>
     <description></description>
-    <link>https://wemake-services.github.io</link>
-    <atom:link href="https://wemake-services.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jan 2021 22:21:42 +0700</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2021 22:21:42 +0700</lastBuildDate>
+    <link>https://xarius.xyz</link>
+    <atom:link href="https://xarius.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jan 2021 22:27:43 +0700</pubDate>
+    <lastBuildDate>Sun, 31 Jan 2021 22:27:43 +0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Wed, 15 Jan 2014 07:18:23 +0700</pubDate>
-        <link>https://wemake-services.github.io/bash/2014/01/15/foreign-link.html</link>
-        <guid isPermaLink="true">https://wemake-services.github.io/bash/2014/01/15/foreign-link.html</guid>
+        <link>https://xarius.xyz/bash/2014/01/15/foreign-link.html</link>
+        <guid isPermaLink="true">https://xarius.xyz/bash/2014/01/15/foreign-link.html</guid>
         
         
         <category>bash</category>
@@ -35,8 +35,8 @@
 &lt;p&gt;Suspendisse quis ante sed metus tristique tristique. Curabitur blandit diam at facilisis efficitur. Curabitur malesuada semper diam, nec fermentum metus tincidunt et. Nulla nec orci pretium turpis sodales efficitur suscipit euismod ligula. Sed iaculis sed nisi pulvinar efficitur. Curabitur at faucibus lectus. Etiam non cursus arcu. Phasellus urna eros, elementum vitae sodales quis, mollis a metus. Donec ultrices elementum turpis, eu aliquam leo maximus eu.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Jan 2014 07:18:23 +0700</pubDate>
-        <link>https://wemake-services.github.io/ruby/2014/01/15/xml.html</link>
-        <guid isPermaLink="true">https://wemake-services.github.io/ruby/2014/01/15/xml.html</guid>
+        <link>https://xarius.xyz/ruby/2014/01/15/xml.html</link>
+        <guid isPermaLink="true">https://xarius.xyz/ruby/2014/01/15/xml.html</guid>
         
         
         <category>ruby</category>
@@ -50,8 +50,8 @@
 &lt;p&gt;Nullam molestie at risus vel aliquam. Morbi ornare cursus facilisis. Praesent tristique lobortis mi in ornare. Donec placerat arcu at ultricies ultricies. Proin ut iaculis erat. Nulla nec erat rutrum, blandit nunc volutpat, faucibus justo. Nam vel consectetur nunc.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Dec 2013 07:18:23 +0700</pubDate>
-        <link>https://wemake-services.github.io/ruby/2013/12/23/helloworld.html</link>
-        <guid isPermaLink="true">https://wemake-services.github.io/ruby/2013/12/23/helloworld.html</guid>
+        <link>https://xarius.xyz/ruby/2013/12/23/helloworld.html</link>
+        <guid isPermaLink="true">https://xarius.xyz/ruby/2013/12/23/helloworld.html</guid>
         
         
         <category>ruby</category>

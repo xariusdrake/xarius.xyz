@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: xarius's blog
+title: xarius's page
 description: > # this means to ignore newlines until "baseurl:"
   
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl:  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+url: https://xarius.xyz  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -28,8 +28,8 @@ your_name: xarius
 email: xariusdrake@hotmail.com
 
 navigation:
-  - text: Home
-    url: /
+  - text: Links
+    url: /links
   - text: Books
     url: /books
 
@@ -56,7 +56,3 @@ social:
   - service: twitter
     username: xariusdrake
     link: https://twitter.com/xariusdrake
-
-# Plugins
-gems:
-  - jekyll-seo-tag
