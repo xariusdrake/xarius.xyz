@@ -6,10 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: xarius's page
-description: > # this means to ignore newlines until "baseurl:"
+title: xarius
+description: increasing access to opportunity # this means to ignore newlines until "baseurl:"
   
-repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://xarius.xyz  # the base hostname & protocol for your site
 
@@ -28,12 +27,14 @@ your_name: xarius
 email: xariusdrake@hotmail.com
 
 navigation:
-  - text: Real
-    url: /real
+  # - text: Real
+  #   url: /real
   - text: Links
     url: /links
   - text: Books
     url: /books
+  - text: Tools
+    url: /tools
 
 projects:
   - name: git-secret
