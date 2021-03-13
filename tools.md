@@ -4,6 +4,6 @@ layout: default
 
 # Tools
 
-Tool is matter. Here is my set of tools that I wish I had it sooner. I'm always looking for new ones.
+tool is matter. here is my set of tools that i wish i had it sooner. i'm always looking for new ones.
 
-Updating...
+updating...
